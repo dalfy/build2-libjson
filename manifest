@@ -1,7 +1,7 @@
 : 1
 name: libjson
 version: 3.5.0
-project: dungeon
+project: third_party
 summary: JSON for Modern C++
 license: MIT
 url: https://github.com/nlohmann/json
